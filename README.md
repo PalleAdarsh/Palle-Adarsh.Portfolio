@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This website is designed to showcase my skills, professional experience, and academic projects as a **Computer Science Graduate** and **Java Full Stack Developer**.
 
 ## 🚀 Live Demo
-[Insert Your Live Link Here - e.g., https://palleadarsh.github.io/portfolio]
+[Insert Your Live Link Here - e.g., palle-adarsh-portfolio.vercel.app]
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)
